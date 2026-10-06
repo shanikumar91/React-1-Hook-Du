@@ -8,4 +8,4 @@ return(
         <h4>{liked ? "You liked this !" : "You have not liked this get !"}</h4>
     </div>
 );
-}
+};
